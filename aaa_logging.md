@@ -1,28 +1,10 @@
 ---
-layout: single
-title:  "AAA Logging"
-author: Brandon McCraw
-date:   2017-12-26 22:01:43 -0600
-categories: posts blog
-toc: true
-excerpt: "Make your logging Available, Actionable, Automatable for an easier life."
-header:
-  overlay_image: /assets/images/apache_logs.png
-  overlay_filter: 0.7 # same as adding an opacity of 0.5 to a black background
-  #overlay_filter: rgba(105, 105, 105, 0.4)
----
----
 title: AAA Logging
 subtitle: Make your logging Available, Actionable, Automatable for an easier life. 
-/* The pathname of your article url 
- * Ex. In https://engineering.hashnode.com/how-we-autodetect-spam-using-googles-vertex-ai 
-   "how-we-autodetect-spam-using-googles-vertex-ai" is the slug */ 
 slug: aaa-logging
-tags: programming, logging **(Required)** - You can find the list of tags here https://github.com/Hashnode/support/blob/main/misc/tags.json
-/* You need to upload your image to https://hashnode.com/uploader 
-and use the uploaded image URL as COVER_IMAGE_URL */ 
+tags: programming, logging
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1660770805000/JCfvpCZG7.png?auto=compress
-domain: mccraw.me (e.g. sandeep.dev or sandeep.hashnode.dev) **(Required)** 
+domain: mccraw.me
 ---
 
 You know those times where you're venting and a speck of gold just pops out of your head?  That happened to me a few years ago when I was attempting to figure out why one of our web applications wasn't functioning like we wanted it to.  After an hour of sifting through line after line of log entries, we finally found...nothing.  It ended up being an issue where some things were logged, but others weren't.  It took us tracking down the original developer to diagnose the problem.  It was then I realized our logging philosophy needed a little refreshing.
