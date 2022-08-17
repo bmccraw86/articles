@@ -20,7 +20,7 @@ If you don't find a log below and have made a commit to your repo, make sure
     * Ex. In https://engineering.hashnode.com/how-we-autodetect-spam-using-googles-vertex-ai 
     "how-we-autodetect-spam-using-googles-vertex-ai" is the slug */ 
     slug: CUSTOM_ARTICLE_SLUG_HERE (Will be created automatically if not provided)
-    tags: TAG_SLUG_1, TAG_SLUG_2 (Required) - You can find the list of tags here
+    tags: TAG_SLUG_1, TAG_SLUG_2 (Required) - You can find the list of tags here: https://github.com/Hashnode/support/blob/main/misc/tags.json
     /* You need to upload your image to https://hashnode.com/uploader 
     and use the uploaded image URL as COVER_IMAGE_URL */ 
     cover: COVER_IMAGE_URL
