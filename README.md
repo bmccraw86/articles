@@ -6,6 +6,8 @@ Please note:
 
 A README.md at the root is always ignored.
 
+[TAG_SLUG Link](https://github.com/Hashnode/support/blob/main/misc/tags.json)
+
 If you don't find a log below and have made a commit to your repo, make sure
 
     the file ends with .md extension, we support markdown files only.
