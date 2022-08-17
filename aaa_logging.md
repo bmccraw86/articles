@@ -2,7 +2,7 @@
 title: AAA Logging
 subtitle: Make your logging Available, Actionable, Automatable for an easier life. 
 slug: aaa-logging
-tags: programming, logging
+tags: programming, logging, macos
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1660770805000/JCfvpCZG7.png?auto=compress
 domain: mccraw.me
 ---
