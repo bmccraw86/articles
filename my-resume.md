@@ -25,11 +25,9 @@ __Programming__: Python, Typescript, Bash
 ## Work Experience
 ---
 
-**Senior Systems Engineer**
-
-July 2015 - Present
-
-Ramsey Solutions, Franklin, TN
+**Senior Systems Engineer**<br />
+July 2015 - Present<br />
+Ramsey Solutions, Franklin, TN <br />
 
 ##### Key Responsibilites
 - Design, develop, and maintain cloud infrastructure spanning 80+ AWS accounts configured in an Organization. Strive towards systems that are self-service.
@@ -38,13 +36,10 @@ Ramsey Solutions, Franklin, TN
 - Continuously mentor and advise junior engineers on best practices and architectural patterns by maintaining an approachable demeanor and encouraging questions.
 ---
 
-**Senior DevOps Engineer**
-
-part-time
-
-July 2020 - Present
-
-Provisions Group, Franklin, TN
+**Senior DevOps Engineer**<br />
+part-time<br />
+July 2020 - Present<br />
+Provisions Group, Franklin, TN<br />
 
 ##### Key Responsibilites
 - Utilize infrastructure-as-code principles to develop and maintain cloud resources for multiple clients.
@@ -52,11 +47,9 @@ Provisions Group, Franklin, TN
 - Act as point-of-escalation for junior engineers.
 ---
 
-**Automation Systems Administrator**
-
-November 2013 - June 2015
-
-United Services Automobile Association (USAA), San Antonio, TX
+**Automation Systems Administrator**<br />
+November 2013 - June 2015<br />
+United Services Automobile Association (USAA), San Antonio, TX<br />
 
 ##### Key Responsibilites
 - Lead administrator for a multifaceted automation environment including Windows and Linux servers
@@ -64,18 +57,18 @@ United Services Automobile Association (USAA), San Antonio, TX
 - Configure, manage, monitor, and maintain JBoss and Tomcat application servers in a production environment
 - Responsible for return to service activities, training, and documentation 
 
-**WebSphere MQ Administrator**
-May 2011 – November 2013
-United Services Automobile Association (USAA), San Antonio, TX
+**WebSphere MQ Administrator**<br />
+May 2011 – November 2013<br />
+United Services Automobile Association (USAA), San Antonio, TX<br />
 
 ##### Key Responsibilites
 - Manage and maintain a large WebSphere MQ Cluster environment with over 1,500 queue mangers on linux and windows servers
 - Interface with customers in both a project and support role to ensure the best customer experience through the full lifecycle of their application.
 - Monitor availability dashboards and coordinate multiple teams during return to service during situations
 
-**DB2/IMS Database Administrator** 
-May 2008 - May 2011
-United Services Automobile Association (USAA), San Antonio, TX
+**DB2/IMS Database Administrator** <br />
+May 2008 - May 2011<br />
+United Services Automobile Association (USAA), San Antonio, TX<br />
 
 ##### Key Responsibilites
 - Maintain and monitor multiple production databases on the DB2 and IMS mainframe database systems
