@@ -26,7 +26,9 @@ __Programming__: Python, Typescript, Bash
 ---
 
 **Senior Systems Engineer**
+
 July 2015 - Present
+
 Ramsey Solutions, Franklin, TN
 
 ##### Key Responsibilites
@@ -37,8 +39,11 @@ Ramsey Solutions, Franklin, TN
 ---
 
 **Senior DevOps Engineer**
+
 part-time
+
 July 2020 - Present
+
 Provisions Group, Franklin, TN
 
 ##### Key Responsibilites
@@ -48,7 +53,9 @@ Provisions Group, Franklin, TN
 ---
 
 **Automation Systems Administrator**
+
 November 2013 - June 2015
+
 United Services Automobile Association (USAA), San Antonio, TX
 
 ##### Key Responsibilites
