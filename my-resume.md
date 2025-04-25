@@ -11,7 +11,7 @@ domain: mccraw.me
 Experienced engineer with 15+ years experience in technology ranging from mainframes to cloud. Has designed and implemented systems professionally in AWS, Azure, and GCP utilizing infrastructure-as-code-principles in Terraform, Cloudformation, Ansible, and Pulumi. 
 
 ## Skills
-__IAC__: Cloudformation/CDK, Terraform, Pulumi<br />
+__IAC__: Cloudformation/CDK, Terraform, Pulumi, Troposphere<br />
 __CI/CD__: Github Workflows, Azure DevOps, GitLab CICD, GoCD<br />
 __Availability/Monitoring__: New Relic, Zabbix, Cloudwatch, Loggly, Elasticsearch, Dynatrace<br />
 __Programming__: Python, Typescript, Bash<br />
@@ -24,9 +24,18 @@ __Programming__: Python, Typescript, Bash<br />
 
 ## Work Experience
 ---
+**Senior Cloud DevOps Engineer**<br />
+October 2023 - Present<br />
+Southwest Airlines, Remote US<br />
 
+#### Key Responsibilites
+- Design, develop, and maintain reusable templates and modules through infrastructure-as-code methodologies.
+- Utilize the software development lifecycle principles to create a managable IaC platform.
+- Stay current on cloud capabilities to be prepared to advise business units on architecture questions.
+- Engage in suppor activities as needed by customers to further the business's goals.
+---
 **Senior Systems Engineer**<br />
-July 2015 - Present<br />
+July 2015 - October 2023<br />
 Ramsey Solutions, Franklin, TN <br />
 
 #### Key Responsibilites
